@@ -1,0 +1,40 @@
+body{
+  background-image:url(https://wallpaperboat.com/wp-content/uploads/2019/10/free-website-background-23.jpg);
+  background-repeat: no-repeat;
+  background-size:cover;
+  padding-left: 300px;
+}
+input{
+       color:black;
+       font-size: 20px;
+       font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+       border-top:none;
+       border-left: none;  
+       border-right: none; 
+       background: transparent;
+       border-bottom:solid 3px rgb(70, 85, 128);
+   }
+   div{
+    background-color:rgba(236, 240, 239, 0.813);
+    border:200px;
+    border-color: rgb(9, 93, 65);
+    border-radius: 30px;
+    width: 280px;
+    height:420px;
+    margin: 100px;
+    padding:15px;
+    padding-left:95px;
+    padding-right:50px;
+
+   }
+   a{
+    text-decoration: none;
+   }
+   img{
+    height: 20px;
+    width: 20px;
+   }
+   img{
+    padding-left:5px;
+    padding-top:2px;
+   }
